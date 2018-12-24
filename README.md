@@ -1,4 +1,4 @@
-# How to SDL application with Bazel Builder?
+# How to make SDL application with Bazel Builder?
 <img src="https://github.com/GeekTree0101/SDLBazelExample/blob/master/resource/cube.jpg" height=300px/>
 
 ## 1. Install Bazel 
